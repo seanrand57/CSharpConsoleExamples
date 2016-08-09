@@ -1,0 +1,78 @@
+    ======  ======
+    Time:8/9/2016 2:32:47 PM
+    Title: Initiate log
+    Message: 
+    Time:8/9/2016 2:32:47 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:8/9/2016 2:32:47 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:8/9/2016 2:32:47 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:8/9/2016 2:32:47 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:8/9/2016 2:32:47 PM
+    Title: LICENSER
+    Message: DS LEFT22
+    Time:8/9/2016 2:32:47 PM
+    Title: LICENSER
+    Message: DT MARK PASSED22.00:00:00
+    Time:8/9/2016 2:33:05 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:8/9/2016 2:33:05 PM
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:8/9/2016 2:33:05 PM
+    Title: LICENSER
+    Message: READ REGS START
+    Time:8/9/2016 2:33:05 PM
+    Title: LIC EXP_KEY
+    Message: NULL
+    Time:8/9/2016 2:33:05 PM
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    log4net:WARN Unable to set property [securityContext] on object [log4net.Appender.FileAppender] using value [log4net.Util.NullSecurityContext.Instance] (with acceptable conversion types)
+    devenv.exe Information: 0 : Retrieving licence for SQL Prompt 6.0 F392A703F8C24F9BB52141C1D7622A6B
+    devenv.exe Information: 0 : Machine hash is local
+    devenv.exe Information: 0 : Local machine hash is EB33-A8B6-B28C-1173
+    devenv.exe Information: 0 : Persisting
+    devenv.exe Information: 0 : Product SQL Prompt
+    devenv.exe Information: 0 : Activated False
+    devenv.exe Information: 0 : Edition 
+    devenv.exe Information: 0 : Serial Number 
+    devenv.exe Information: 0 : Blob F392A703F8C24F9BB52141C1D7622A6B
+    devenv.exe Information: 0 : Hash EB33-A8B6-B28C-1173
+    devenv.exe Information: 0 : Trial Tampered
+    devenv.exe Information: 0 : Expires 2015/07/13 03:38:13 UTC
+    devenv.exe Information: 0 : Extended False
+    devenv.exe Information: 0 : Installed 2015/06/29 03:27:57 UTC
+    devenv.exe Information: 0 : First Used 2015/06/29 03:38:13 UTC
+    devenv.exe Information: 0 : Last Used 2016/08/09 05:33:14 UTC
+    devenv.exe Information: 0 : Stored to registry
+    Entering constructor for: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    Entering Initialize() of: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    Entering constructor for: Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage
+    Entering Initialize() of: Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage
+    TestWindow package loaded
+    Informational: ------ Load Playlist started ------
+    Informational: ========== Load Playlist finished (0:00:00.0120012) ==========
+    Informational: ------ Discover test started ------
+    Informational: NUnit VS Adapter 2.0.0.0 discovering tests is started
+    Informational: NUnit VS Adapter 2.0.0.0 discovering test is finished
+    Informational: NUnit Adapter 3.0.10.0: Test discovery starting
+    Informational: Assembly contains no NUnit 3.0 tests: C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\GradeBook.exe
+    Informational: NUnit Adapter 3.0.10.0: Test discovery complete
+    Informational: ========== Discover test finished: 0 found (0:00:01.1791179) ==========
+    Informational: ------ Discover test started ------
+    Informational: NUnit VS Adapter 2.0.0.0 discovering tests is started
+    Informational: NUnit VS Adapter 2.0.0.0 discovering test is finished
+    Informational: NUnit Adapter 3.0.10.0: Test discovery starting
+    Informational: Assembly contains no NUnit 3.0 tests: C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\bin\Debug\LinqIntro.exe
+    Informational: NUnit Adapter 3.0.10.0: Test discovery complete
+    Informational: ========== Discover test finished: 0 found (0:00:00.3130313) ==========

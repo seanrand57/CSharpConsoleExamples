@@ -1,0 +1,6 @@
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\bin\Debug\LinqIntro.exe.config
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\bin\Debug\LinqIntro.exe
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\bin\Debug\LinqIntro.pdb
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\obj\Debug\LinqIntro.csprojResolveAssemblyReference.cache
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\obj\Debug\LinqIntro.exe
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\LinqIntro\obj\Debug\LinqIntro.pdb

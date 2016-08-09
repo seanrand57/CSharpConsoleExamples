@@ -1,0 +1,7 @@
+c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\GradeBook.exe.config
+c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\GradeBook.exe
+c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\GradeBook.pdb
+c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\obj\Debug\GradeBook.exe
+c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\grades.txt
+C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
