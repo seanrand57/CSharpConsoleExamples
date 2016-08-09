@@ -5,3 +5,10 @@ c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicros
 c:\users\srand\documents\visual studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\obj\Debug\GradeBook.pdb
 C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\bin\Debug\grades.txt
 C:\Users\srand\Documents\Visual Studio 2015\Projects\CSharpProgrammingExamMicrosoft\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\bin\Debug\grades.txt
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\bin\Debug\GradeBook.exe.config
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\bin\Debug\GradeBook.exe
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\bin\Debug\GradeBook.pdb
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\obj\Debug\GradeBook.exe
+E:\Dev\GitHub\CSharpConsoleExamples\GradeBook\obj\Debug\GradeBook.pdb
